@@ -21,19 +21,25 @@ The player cannot move through walls or boxes. It can only move onto a square oc
 execute a push to move it out of the way. Therefore a player cannot push more than one box at a time, nor
 can he pull them.
 
-Here is the start state of level 1 as seen
-above.
+Here is the start state of level 1 as seen above.
 
-'  ##### '
-'###   # '
-'#.&B  # '
-'### B.# '
-'#.##B # '
-'# # . ##'
-'#B XBB.#'
-'#   .  #'
-'########'
+|  ##### |
 
+|###   # |
+
+|#.&B  # |
+
+|### B.# |
+
+|#.##B # |
+
+|# # . ##|
+
+|#B XBB.#|
+
+|#   .  #|
+
+|########|
 
 The characters define the following entities:
 - ‘#’ : Wall
