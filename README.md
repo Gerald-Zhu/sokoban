@@ -24,15 +24,15 @@ can he pull them.
 Here is the start state of level 1 as seen
 above.
 
-  #####
-###   #
-#.&B  #
-### B.#
-#.##B #
-# # . ##
-#B XBB.#
-#   .  #
-########
+  #####<br>
+###   #<br>
+#.&B  #<br>
+### B.#<br>
+#.##B #<br>
+# # . ##<br>
+#B XBB.#<br>
+#   .  #<br>
+########<br>
 
 
 The characters define the following entities:
